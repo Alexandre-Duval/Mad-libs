@@ -27,7 +27,7 @@ def mad_lib():
         elif question == "n":
             print("Sorry to see you go.")
             break
-
+        
         else:
             print("Invalid input.")
 
