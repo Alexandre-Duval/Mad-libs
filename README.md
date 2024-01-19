@@ -1,3 +1,3 @@
-# Mad Lib Program Assignment
+# Mad Libs Program Assignment
 
 Assignment 3 submission
